@@ -2,7 +2,7 @@
 
 In this repository you can multiple algorithms developed for the Cryptology and Security Data class during my Master's Degree. Python is the programming language used, and Pandas is imported to generate the result tables.
 
-You can find the full analysis of the algorithms in the PDF file [within this repository] (https://github.com/Slixerr/-Cryptanalysis-algorithms/blob/main/TrabajoCriptoanalisis-SilviuManolescu.pdf) (in Spanish).
+You can find the full analysis of the algorithms in the PDF file [within this repository](https://github.com/Slixerr/-Cryptanalysis-algorithms/blob/main/TrabajoCriptoanalisis-SilviuManolescu.pdf) (in Spanish).
 
 This assignment has been graded by the teacher, receiving a score of 10.
 
